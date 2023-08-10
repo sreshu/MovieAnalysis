@@ -19,9 +19,9 @@ Keep executing each cell ,
 * if asked for User ID - put any number from 1 to 2500
 
    Generate and display different approaches of recommendations by uncommenting  any one of these cells
-#recommendations = generate_movie_recommendations(input_movie, ratings, movies)
-#recommendations = recommend_by_cosine_similarity(input_movie, ratings, movies)
-#recommendations = recommend_by_content(input_movie, movies)
-#recommend_movies_knn(input_movie, ratings, movies, num_recommendations=5, k=6)
+#recommendations = generate_movie_recommendations(input_movie, ratings, movies) <br />
+#recommendations = recommend_by_cosine_similarity(input_movie, ratings, movies) <br />
+#recommendations = recommend_by_content(input_movie, movies) <br />
+#recommend_movies_knn(input_movie, ratings, movies, num_recommendations=5, k=6) <br />
 
    
