@@ -24,4 +24,7 @@ Keep executing each cell ,
 #recommendations = recommend_by_content(input_movie, movies) <br />
 #recommend_movies_knn(input_movie, ratings, movies, num_recommendations=5, k=6) <br />
 
+# Future Scope:
+Create customized filtering method, Research/Dive deep about DNN based approaches
+
    
