@@ -25,6 +25,8 @@ Keep executing each cell ,
 #recommend_movies_knn(input_movie, ratings, movies, num_recommendations=5, k=6) <br />
 
 # Future Scope:
-Create customized filtering method, Research/Dive deep about DNN based approaches
+   Create customized filtering method, Research/Dive deep about DNN based approaches.
+
+   Recommendation on the basis of sentiments presented in the comments.
 
    
