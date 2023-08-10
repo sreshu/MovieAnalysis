@@ -27,6 +27,7 @@ Keep executing each cell ,
 # Future Scope:
    Create customized filtering method, Research/Dive deep about DNN based approaches.
 
-   Recommendation on the basis of sentiments presented in the comments.
+   Recommendation on the basis of sentiments presented in the comments, can improvise the similarity score further.
+   
 
    
